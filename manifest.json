@@ -1,0 +1,10 @@
+{
+  "name": "Calvin Pics",
+  "description": "Pictures!",
+  "version": "1",
+  "app": {
+    "launch": {
+      "local_path": "main.html"
+    }
+  }
+}
