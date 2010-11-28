@@ -7,3 +7,16 @@
   top: 0;
   left; 0;
 }
+
+#swatch {
+  border: 1px solid black;
+  padding: 5px;
+  position: absolute;
+  top: 10;
+  left: 10;
+}
+
+#swatch-color {
+  width: 70;
+  height: 70;
+}
